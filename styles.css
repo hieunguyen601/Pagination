@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.back {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 3px;
+}
+
+a {
+    font-size: 20px;
+    margin: 3px;
+}
+
+.next {
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 3px;
+}
